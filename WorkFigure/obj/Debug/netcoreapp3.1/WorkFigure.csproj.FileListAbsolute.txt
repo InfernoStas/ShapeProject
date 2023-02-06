@@ -1,0 +1,10 @@
+C:\Users\stani\source\repos\ShapeProject\WorkFigure\bin\Debug\netcoreapp3.1\WorkFigure.deps.json
+C:\Users\stani\source\repos\ShapeProject\WorkFigure\bin\Debug\netcoreapp3.1\WorkFigure.dll
+C:\Users\stani\source\repos\ShapeProject\WorkFigure\bin\Debug\netcoreapp3.1\WorkFigure.pdb
+C:\Users\stani\source\repos\ShapeProject\WorkFigure\obj\Debug\netcoreapp3.1\WorkFigure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stani\source\repos\ShapeProject\WorkFigure\obj\Debug\netcoreapp3.1\WorkFigure.AssemblyInfoInputs.cache
+C:\Users\stani\source\repos\ShapeProject\WorkFigure\obj\Debug\netcoreapp3.1\WorkFigure.AssemblyInfo.cs
+C:\Users\stani\source\repos\ShapeProject\WorkFigure\obj\Debug\netcoreapp3.1\WorkFigure.csproj.CoreCompileInputs.cache
+C:\Users\stani\source\repos\ShapeProject\WorkFigure\obj\Debug\netcoreapp3.1\WorkFigure.dll
+C:\Users\stani\source\repos\ShapeProject\WorkFigure\obj\Debug\netcoreapp3.1\WorkFigure.pdb
+C:\Users\stani\source\repos\ShapeProject\WorkFigure\obj\Debug\netcoreapp3.1\WorkFigure.csproj.AssemblyReference.cache
