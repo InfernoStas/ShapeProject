@@ -1,0 +1,17 @@
+C:\Users\stani\source\repos\ShapeProject\FigureProject\bin\Debug\netcoreapp3.1\FigureProject.exe
+C:\Users\stani\source\repos\ShapeProject\FigureProject\bin\Debug\netcoreapp3.1\FigureProject.deps.json
+C:\Users\stani\source\repos\ShapeProject\FigureProject\bin\Debug\netcoreapp3.1\FigureProject.runtimeconfig.json
+C:\Users\stani\source\repos\ShapeProject\FigureProject\bin\Debug\netcoreapp3.1\FigureProject.runtimeconfig.dev.json
+C:\Users\stani\source\repos\ShapeProject\FigureProject\bin\Debug\netcoreapp3.1\FigureProject.dll
+C:\Users\stani\source\repos\ShapeProject\FigureProject\bin\Debug\netcoreapp3.1\FigureProject.pdb
+C:\Users\stani\source\repos\ShapeProject\FigureProject\bin\Debug\netcoreapp3.1\WorkFigure.dll
+C:\Users\stani\source\repos\ShapeProject\FigureProject\bin\Debug\netcoreapp3.1\WorkFigure.pdb
+C:\Users\stani\source\repos\ShapeProject\FigureProject\obj\Debug\netcoreapp3.1\FigureProject.csproj.AssemblyReference.cache
+C:\Users\stani\source\repos\ShapeProject\FigureProject\obj\Debug\netcoreapp3.1\FigureProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stani\source\repos\ShapeProject\FigureProject\obj\Debug\netcoreapp3.1\FigureProject.AssemblyInfoInputs.cache
+C:\Users\stani\source\repos\ShapeProject\FigureProject\obj\Debug\netcoreapp3.1\FigureProject.AssemblyInfo.cs
+C:\Users\stani\source\repos\ShapeProject\FigureProject\obj\Debug\netcoreapp3.1\FigureProject.csproj.CoreCompileInputs.cache
+C:\Users\stani\source\repos\ShapeProject\FigureProject\obj\Debug\netcoreapp3.1\FigureProject.csproj.CopyComplete
+C:\Users\stani\source\repos\ShapeProject\FigureProject\obj\Debug\netcoreapp3.1\FigureProject.dll
+C:\Users\stani\source\repos\ShapeProject\FigureProject\obj\Debug\netcoreapp3.1\FigureProject.pdb
+C:\Users\stani\source\repos\ShapeProject\FigureProject\obj\Debug\netcoreapp3.1\FigureProject.genruntimeconfig.cache
