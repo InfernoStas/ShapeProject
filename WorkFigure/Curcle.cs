@@ -7,7 +7,7 @@ namespace WorkFigure
     
     public class Curcle:Figure
     {
-        public double? Radius;
+        public double? Radius { get; }
         public Curcle(double radius)
         {
             if (radius > 0)
