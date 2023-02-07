@@ -6,9 +6,9 @@ namespace WorkFigure
 {
     public class Triangle:Figure
     {
-        public double Side1;
-        public double Side2;
-        public double Side3;
+        public double Side1 { get; }
+        public double Side2 { get; }
+        public double Side3 { get; }
 
         //Проверка на существование треугольника
         private static Boolean CheckTriangle(double side1, double side2, double side3)
